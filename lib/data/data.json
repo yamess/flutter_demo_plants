@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Samantha",
+    "country": "Canada",
+    "price": 440
+  },
+  {
+    "title": "Steph",
+    "country": "USA",
+    "price": 500
+  },
+  {
+    "title": "Angelica",
+    "country": "Russia",
+    "price": 400
+  }
+]
